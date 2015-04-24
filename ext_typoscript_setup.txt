@@ -1,0 +1,5 @@
+page.1051 = USER_INT
+page.1051{
+	includeLibs = EXT:ps_cookie_disclaimer/class.tx_pscookiedisclaimer_tools.php
+	userFunc = tx_pscookiedisclaimer_tools->renderCookieDisclaimer
+}

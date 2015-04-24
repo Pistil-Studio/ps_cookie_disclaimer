@@ -1,0 +1,6 @@
+ # cat=basic; type=number; label=Page id with explaination : if enabled the extension display a link to a details page
+ detailPageId = 135
+
+  # cat=basic; type=boolean; label=Activate CNIL acceptation : if enabled the extension display the CNIL message
+ display = 1
+

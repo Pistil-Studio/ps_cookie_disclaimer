@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_pscookiedisclaimer_tools&quot;</description>
+	</meta>
+	<data type="array">
+
+
+		<languageKey index="default" type="array">
+			<label index="disclaimer">En poursuivant votre navigation sans modifier vos paramètres de cookies, vous acceptez l'utilisation des cookies pour disposer d'offres adaptées à vos centre d'intérêts. </label>
+			<label index="link">Pour gérer et modifier ces paramètres, cliquez ici</label>
+			<label index="accept">x</label>
+		</languageKey>
+
+
+
+
+	</data>
+</T3locallang>
